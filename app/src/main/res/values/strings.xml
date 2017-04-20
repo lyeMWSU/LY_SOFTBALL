@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LY_Softball</string>
+    <string	name="hello_world">Hello	world!</string>
+    <string	name="action_settings">Settings</string>
+    <string	name="softball_title_hint">Enter a title for the crime.</string>
+    <string name="softball_title_label">Title</string>
+	<string name="softball_details_label">Details</string>
+	<string name="softball_here_label">Here</string>
+</resources>
